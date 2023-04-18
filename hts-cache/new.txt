@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:21:42	4020/4020	---MCZ	403	error ('Forbidden')	text/html	date:Tue,%2018%20Apr%202023%2002:21:41%20GMT	https://dexscreener.com/robots.txt		(from )
+05:21:42	6802/6802	---MCZ	403	error ('Forbidden')	text/html	date:Tue,%2018%20Apr%202023%2002:21:41%20GMT	https://dexscreener.com/	E:/dexss/dex/dexscreener.com/index.html	(from )

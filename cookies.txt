@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dexscreener.com	TRUE	/	FALSE	1999999999	__cf_bm	M7htu_xbbv2v9zslM4.z0tfjtW_gMyaTWX6RNlVolgc-1681784501-0-AQ66gvuEoxNckZDdBAcZE6ATeeSEsEEnNWZyPjjqRrjjpeM204scqJ9vg/kFne0LqUPvG07xng5Q0iMOzwFrU/dpWfzaGxcru5Zth3ZhoQ91
+dexscreener.com	TRUE	/	FALSE	1999999999	SameSite	None
+
